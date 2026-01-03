@@ -1,0 +1,56 @@
+# TCL Roku TV (Roku OS) – Ads & Tracking
+ads.roku.com
+p.ads.roku.com
+i.ads.roku.com
+
+# Roku Ad Asset & Promo Images
+wwwimg.roku.com
+assets.sr.roku.com
+track.sr.roku.com
+traces.sr.roku.com
+bif.sr.roku.com
+
+# Roku Ad Delivery (ravm.tv)
+ravm.tv
+p.ravm.tv
+display.ravm.tv
+rxr.ravm.tv
+raps.ravm.tv
+raps-perf.ravm.tv
+
+# Roku Telemetry / Logging
+tyler.logs.roku.com
+giga.logs.roku.com
+cooper.logs.roku.com
+austin.logs.roku.com
+griffin.logs.roku.com
+liberty.logs.roku.com
+littlefield.logs.roku.com
+paolo.logs.roku.com
+scribe.logs.roku.com
+sugarland.logs.roku.com
+victoria.logs.roku.com
+windsor.logs.roku.com
+digdug.logs.roku.com
+digdug-g2.logs.roku.com
+
+# Roku Misc Services (optional blocks)
+cloudservices.roku.com
+prod.mobile.roku.com
+amoeba.web.roku.com
+amoeba-plus.web.roku.com
+customer-feedbacks.web.roku.com
+
+# LG Smart TV Ads
+lgad.cjpowercast.com.edgesuite.net
+us.ad.lgsmartad.com
+
+# Samsung Smart TV Ads
+samsungacr.com
+samsungads.com
+config.samsungads.com
+ads.samsung.com
+gpm.samsungqbe.com
+log-config.samsungacr.com
+samsungcloudsolution.com
+samsungcloudsolution.net
